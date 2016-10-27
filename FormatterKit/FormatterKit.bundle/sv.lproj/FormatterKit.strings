@@ -19,7 +19,7 @@
 "," = ",";
 
 /* Approximate Qualifier Format */
-"about %@" = "ungefär %@";
+"about %@" = "ca %@";
 
 /* Past Deictic Expression */
 "ago" = "sedan";
@@ -31,7 +31,7 @@
 "bits" = "bitar";
 
 /* Byte Unit */
-"bytes" = "bytes";
+"bytes" = "byte";
 
 /* Error converting to NSArray */
 "Couldn’t convert to NSArray" = "Kunde inte omvandla till NSArray";
@@ -102,7 +102,7 @@
 "just now" = "just nu";
 
 /* Kilobyte Unit */
-"KB" = "KB";
+"KB" = "kB";
 
 /* Kilobit Unit */
 "kbit" = "kbit";
@@ -141,7 +141,7 @@
 "Mbit" = "Mbit";
 
 /* No comment provided by engineer. */
-"Method Not Implemented" = "Metod Ej Implementerad";
+"Method Not Implemented" = "Metod ej implementerad";
 
 /* Mebibyte Unit */
 "MiB" = "MiB";
@@ -150,10 +150,10 @@
 "Mibit" = "Mibit";
 
 /* Mile Unit (Singular) */
-"mile" = "mil";
+"mile" = "mile";
 
 /* Mile Unit (Plural) */
-"miles" = "mil";
+"miles" = "miles";
 
 /* Minute Unit (Singular, Abbreviated) */
 "min" = "min";
